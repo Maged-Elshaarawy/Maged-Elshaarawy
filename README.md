@@ -19,8 +19,8 @@ With a background in communication engineering, I’ve developed a strong unders
 - Network monitoring and troubleshooting (Wireshark, ping, traceroute)  
 
 ☁️ **Cloud (AWS)**  
-- AWS re/Start Graduate  
-- **AWS Certified Cloud Practitioner**  
+- AWS Certified Cloud Practitioner 
+- AWS re/Start Graduate    
 - Key AWS services: EC2, S3, IAM, VPC, CloudWatch, RDS  
 - Security and best practices in the cloud  
 - Cloud architecture basics and the shared responsibility model  

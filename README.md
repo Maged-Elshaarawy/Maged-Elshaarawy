@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm a Communication Engineer with a passion for networking and a growing specialization in cloud computing. I recently completed the **AWS re/Start** program, building a strong foundation in cloud technologies and hands-on AWS skills. I'm also an **AWS Certified Cloud Practitioner**.
+I'm a Communication Engineer with a passion for networking and a growing specialization in cloud computing. I recently completed the **AWS re/Start** program, building a strong foundation in cloud technologies and hands-on AWS skills. I'm also an **AWS Certified Solutions Architect**.
 
 ---
 
@@ -19,6 +19,7 @@ With a background in communication engineering, I’ve developed a strong unders
 - Network monitoring and troubleshooting (Wireshark, ping, traceroute)  
 
 ☁️ **Cloud (AWS)**  
+- AWS Certified Solutions Architect 
 - AWS Certified Cloud Practitioner 
 - AWS re/Start Graduate    
 - Key AWS services: EC2, S3, IAM, VPC, CloudWatch, RDS  
@@ -35,7 +36,8 @@ With a background in communication engineering, I’ve developed a strong unders
 ---
 
 📜 **Certifications**  
-- 🎓 Graduate of **AWS re/Start Program**  
+- 🎓 Graduate of **AWS re/Start Program**
+- 🏅 **AWS Certified Solutions Architect**
 - 🏅 **AWS Certified Cloud Practitioner**  
 
 ---
